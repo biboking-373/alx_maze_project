@@ -1,4 +1,5 @@
 #include "../headers/header.h"
+#include <math.h>
 
 /**
  * changeColorIntensity - change color intensity
